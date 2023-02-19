@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- *  *main - Entry point
- *   *My hello, printf task
- *    *Return: return 1 after program execution
+ *main - A program that print a line using a printf funtion
+ *Return: 0 (success)
  */
 int main(void)
 {
