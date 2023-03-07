@@ -7,7 +7,7 @@
  * *@needle: string whose occurence is searched in haystack
  * *Return:Returns a pointer to the beginning of the located
  * * substring, or NULL if the substring is not found.
- * */
+ */
 
 char *_strstr(char *haystack, char *needle)
 {
